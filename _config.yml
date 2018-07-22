@@ -95,7 +95,8 @@ menu:
   home: / || home
   #about: /about/ || user
   #categories: /categories/ || th
-  projects: /projects/ || cube
+  resources: /resources/ || cube
+  # projects: /projects/ || cube
   archives: /archives/ || archive
   tags: /tags/ || tags
   #schedule: /schedule/ || calendar
